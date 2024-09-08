@@ -1,3 +1,3 @@
-Nombre: Santiago Rodriguez Castrillon
-Cedula: 1216724088
-Programa academico: Ingenieria Mecanica
+NOMBRE: SANTIAGO RODRIGUEZ CASTRILLÓN   
+CÉDULA: 1216724088  
+PROGRAMA ACADÉMICO: INGENIERÍA MECÁNICA
